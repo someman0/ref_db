@@ -1,0 +1,8 @@
+// .gitignore
+*.pyc
+*~
+__pycache__
+ref_db
+db.sqlite3
+/static
+.DS_Store
